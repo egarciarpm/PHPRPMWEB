@@ -1,0 +1,57 @@
+
+@import 'https://fonts.googleapis.com/css?family=Fjalla+One|Lobster';
+body{
+    font-family: 'Fjalla One', sans-serif;
+    
+}
+#indexhead{
+    padding:0px;
+    background-color:#aaa;
+}
+#defaulthead{
+    background: url("../images/1.jpeg") no-repeat center center;
+    background-size: cover;
+     color:white;
+    text-shadow: 0px 0px 1px #000;
+ 
+}
+.headerdesc{
+    font-family: 'Lobster', cursive;
+}
+.jumbotron{
+    padding:0px;
+    margin:0px;
+}
+.blog-post p{
+    font-size: 1.3em;
+}
+.well-inverse{
+
+        background-color:#888;
+        color: #eee;
+}
+ul{
+    list-style-type: none;
+}
+.jumbotron .row .container .headerlogo{
+    padding:0;
+}
+
+.text-muted{
+    color:white;
+    text-shadow: 0px 0px 1px #000;
+}
+.headerfreetrial{
+    background: url("../images/bgimg.png") no-repeat center center;
+    background-size: cover;
+}
+*{
+    font-size: 1.02em;
+}
+.img{
+padding:5px;
+}
+.suiteimg{
+    padding-top:15px;
+    
+}
